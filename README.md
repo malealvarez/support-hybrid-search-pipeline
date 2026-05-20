@@ -102,3 +102,7 @@ Final Ranked Response
 - Retrieval evaluation metrics (NDCG@10, Recall@K)
 - Latency benchmarking
 - Production deployment architecture
+
+## Architecture Diagram
+
+![Architecture Diagram](images/support.png)
